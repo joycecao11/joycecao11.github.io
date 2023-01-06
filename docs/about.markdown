@@ -1,18 +1,26 @@
 ---
-layout: page
-title: About
+layout: default
+title: A place for joy!
 permalink: /about/
 ---
+## My friend
+ * her name is Puding
+ <p align="center">
+  <img width="300" height="400" src="/img/puding.jpg">
+</p>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## I like cooking & baking
+<p align="center">
+  <img width="400" height="400" src="/img/cake.JPG">
+</p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## I like doing caligraphy
+<p align="center">
+  <img width="300" height="400" src="/img/caligraphy.JPG">
+</p>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## I love travelling
+<p align="center">
+  <img width="400" height="300" src="/img/dolphin.JPG">
+</p>
 
-
-[jekyll-organization]: https://github.com/jekyll

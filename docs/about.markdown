@@ -14,7 +14,7 @@ permalink: /about/
   <img width="400" height="400" src="/img/cake.JPG">
 </p>
 
-## I like doing caligraphy
+## I like doing calligraphy
 <p align="center">
   <img width="300" height="400" src="/img/caligraphy.JPG">
 </p>

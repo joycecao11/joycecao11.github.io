@@ -1,0 +1,9 @@
+---
+layout: post
+title:  CPSC436A
+# date:   2023-01-06 00:00:00 +0000
+categories: CPSC436A
+permlink: /:categories/:title
+---
+
+under construction

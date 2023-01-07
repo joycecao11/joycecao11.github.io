@@ -1,9 +1,4 @@
 ---
-layout: default
-title: A place for joy!
+layout: blog
 permalink: /blog/
 ---
-
-## First blog
-
-under construction

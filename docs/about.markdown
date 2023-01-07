@@ -4,7 +4,7 @@ title: A place for joy!
 permalink: /about/
 ---
 ## My friend
- * her name is Puding
+ * her name is Pudding
  <p align="center">
   <img width="300" height="400" src="/img/puding.jpg">
 </p>

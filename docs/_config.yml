@@ -29,6 +29,8 @@ github_username:  joycecao11
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+site.title: Xuechun Cao
+page.title: Xuechun Cao
 plugins:
   - jekyll-feed
 

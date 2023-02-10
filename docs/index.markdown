@@ -12,16 +12,6 @@ I am a MSc student in [the Computer Science department, University of British Co
 
 I obtained my Bachelor degree from UBC in 2022 with a combined major in Computer Science and Statistics. Although I have some Statistics background, I still like systems, especially memory related. I hope in the future I can do more research on machine learning related system topics ;-).
 
-## Education
-
-*   MSc in Computer Science (UBC), 2022 - current
-*   BSc in Computer Science and Statistics (UBC), 2018 - 2022
-
-## Experience
-
-*   Graduate Research Assistant @ Systopia Lab, 2022 - current
-*   Software Engineer @ Realtor.com, 2019
-
 ## Contact
 
 *   Email: cxuechun@cs.ubc.ca

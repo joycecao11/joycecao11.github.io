@@ -6,12 +6,13 @@ categories: CPSC436A
 permlink: /:categories/:title
 ---
 
-## Go Barrelfishing!!!
+### Go Barrelfishing!!!
 <p align="center">
   <img width="200" height="200" src="/img/barrelfish.png">
 </p>
 
-## Capability
+### Capability
 Capability is an subjective view of referece monitoring in an operating system. It is a different view from the ACL(access control list) which is widely used in the Lnux kernel. ACL for an object(e.g. a file) determine who has the access permission to this object. However, capability is like a key which owned by subjects. Determining who has the access permission is checking if a subject as a key to operate on a file. For people who is comfortable with Linux, they need time to make transition from ACL to capability.
 
-## Confused Deputy
+### Confused Deputy
+coming soon......

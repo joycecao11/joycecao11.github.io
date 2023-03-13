@@ -11,7 +11,7 @@ permalink: /about/
 
 ## I like cooking & baking
 <p align="center">
-  <img width="400" height="400" src="/img/cake.JPG">
+  <img width="350" height="350" src="/img/cake.JPG">
 </p>
 
 ## I like doing calligraphy

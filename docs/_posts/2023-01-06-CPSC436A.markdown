@@ -2,13 +2,13 @@
 layout: post
 title:  CPSC436A
 # date:   2023-01-06 00:00:00 +0000
-categories: CPSC436A
+categories: course
 permlink: /:categories/:title
 ---
 
 ### Go Barrelfishing!!!
 <p align="center">
-  <img width="200" height="200" src="/img/barrelfish.png">
+  <img width="200" height="200" src="/img/2023-01-06-pic/barrelfish.png">
 </p>
 
 ### Capability

@@ -16,6 +16,9 @@ I obtained my Bachelor degree from UBC with a combined major in Computer Science
 
 * [ASPLOS '23](https://asplos-conference.org/), Vancouver, Canada
 
+## Teaching Assistant
+* [CPSC436A - Operating Systems Design and Implementation](https://tfjmp.org/UBC-CPSC-436A/) (UBC)
+
 ## Contact
 
 *   Email: cxuechun@cs.ubc.ca

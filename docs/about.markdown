@@ -24,4 +24,4 @@ permalink: /about/
   <img width="400" height="300" src="/img/self/dolphin.JPG">
 </p>
 
-## I also do like swimming, playing badminton, and hiking. Vancouver is such a nice place for hiking in summer. I don't have pics for them at the moment haha.
+## I also do like swimming, playing badminton, and hiking. Vancouver is such a nice place for hiking in summer.

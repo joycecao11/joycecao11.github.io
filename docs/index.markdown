@@ -15,6 +15,7 @@ I obtained my Bachelor degree from UBC with a combined major in Computer Science
 ## Recent activity
 
 * [ASPLOS '23](https://asplos-conference.org/), Vancouver, Canada
+* [SOSP '23](https://sosp2023.mpi-sws.org/), Koblenz, Germany
 
 ## Teaching Assistant
 * [CPSC436A - Operating Systems Design and Implementation](https://tfjmp.org/UBC-CPSC-436A/) (UBC)

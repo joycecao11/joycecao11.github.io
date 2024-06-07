@@ -22,7 +22,7 @@ I obtained my Bachelor degree from UBC with a combined major in Computer Science
 * [CPSC436A - Operating Systems Design and Implementation](https://tfjmp.org/UBC-CPSC-436A/) (2023WT1 - UBC)
 
 ## Publication
-* "[FetchBPF: Customizable Prefetching Policies in Linux with eBPF](https://www.usenix.org/conference/atc24/presentation/cao)" - Xuechun Cao, Shaurya Patel , Soo Yee Lim, Xueyuan Han, Thomas Pasquier (USENIX ATC '24)
+* "[FetchBPF: Customizable Prefetching Policies in Linux with eBPF](https://www.usenix.org/conference/atc24/presentation/cao)" - **Xuechun Cao**, Shaurya Patel , Soo Yee Lim, Xueyuan Han, Thomas Pasquier (USENIX ATC '24)
 
 ## Contact
 
